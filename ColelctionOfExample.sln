@@ -7,6 +7,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ColelctionOfExample", "Cole
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "EquationProvision", "EquationProvision\EquationProvision.vcxproj", "{C7C48ABB-8A94-4184-8CFD-BE1F332127BB}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "VarianceAndStandardDeviationCalculation", "VarianceAndStandardDeviationCalculation\VarianceAndStandardDeviationCalculation.vcxproj", "{31AC8A09-1EE0-473B-AA48-1BDF950FDE74}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CollatzsTheorem", "CollatzsTheorem\CollatzsTheorem.vcxproj", "{20D844DA-8D7A-4CCB-BD11-CDEEE42A369D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +35,22 @@ Global
 		{C7C48ABB-8A94-4184-8CFD-BE1F332127BB}.Release|x64.Build.0 = Release|x64
 		{C7C48ABB-8A94-4184-8CFD-BE1F332127BB}.Release|x86.ActiveCfg = Release|Win32
 		{C7C48ABB-8A94-4184-8CFD-BE1F332127BB}.Release|x86.Build.0 = Release|Win32
+		{31AC8A09-1EE0-473B-AA48-1BDF950FDE74}.Debug|x64.ActiveCfg = Debug|x64
+		{31AC8A09-1EE0-473B-AA48-1BDF950FDE74}.Debug|x64.Build.0 = Debug|x64
+		{31AC8A09-1EE0-473B-AA48-1BDF950FDE74}.Debug|x86.ActiveCfg = Debug|Win32
+		{31AC8A09-1EE0-473B-AA48-1BDF950FDE74}.Debug|x86.Build.0 = Debug|Win32
+		{31AC8A09-1EE0-473B-AA48-1BDF950FDE74}.Release|x64.ActiveCfg = Release|x64
+		{31AC8A09-1EE0-473B-AA48-1BDF950FDE74}.Release|x64.Build.0 = Release|x64
+		{31AC8A09-1EE0-473B-AA48-1BDF950FDE74}.Release|x86.ActiveCfg = Release|Win32
+		{31AC8A09-1EE0-473B-AA48-1BDF950FDE74}.Release|x86.Build.0 = Release|Win32
+		{20D844DA-8D7A-4CCB-BD11-CDEEE42A369D}.Debug|x64.ActiveCfg = Debug|x64
+		{20D844DA-8D7A-4CCB-BD11-CDEEE42A369D}.Debug|x64.Build.0 = Debug|x64
+		{20D844DA-8D7A-4CCB-BD11-CDEEE42A369D}.Debug|x86.ActiveCfg = Debug|Win32
+		{20D844DA-8D7A-4CCB-BD11-CDEEE42A369D}.Debug|x86.Build.0 = Debug|Win32
+		{20D844DA-8D7A-4CCB-BD11-CDEEE42A369D}.Release|x64.ActiveCfg = Release|x64
+		{20D844DA-8D7A-4CCB-BD11-CDEEE42A369D}.Release|x64.Build.0 = Release|x64
+		{20D844DA-8D7A-4CCB-BD11-CDEEE42A369D}.Release|x86.ActiveCfg = Release|Win32
+		{20D844DA-8D7A-4CCB-BD11-CDEEE42A369D}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
